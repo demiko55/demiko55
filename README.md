@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **demiko55/demiko55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,10 +16,10 @@ Here are some ideas to get you started:
 I am a full-stack software engineer with a background in software testing. I developed strong problem-solving skills and learned how to work effectively both independently and as part of a team at HR. I have a keen eye for detail and a dedication to delivering high-quality code that meets user needs while adhering to best practices and industry standards.
 If you are looking for a full stack engineer, please don't hesitate to reach out. I am excited to connect with like-minded professionals and explore new opportunities in the tech industry.
 
-[![LinkedIn](https://img.shields.io/badge/demigao%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/junmenggao/)](https://www.linkedin.com/in/junmenggao/)
-[![Gmail](https://img.shields.io/badge/DemiGao98%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:cbgaojunmeng@gmail.com)](mailto:cbgaojunmeng@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/DemiGao%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/junmenggao/)](https://www.linkedin.com/in/junmenggao/)
+[![Gmail](https://img.shields.io/badge/DemiGao%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:cbgaojunmeng@gmail.com)](mailto:cbgaojunmeng@gmail.com)
 
-:round_pushpin: Based in Westminster, CA
+:round_pushpin: Based in Greater Seattle Area, WA
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
