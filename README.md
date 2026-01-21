@@ -17,7 +17,6 @@ I am a full-stack software engineer with a background in software testing. I dev
 
 If you are looking for a full stack engineer, please don't hesitate to reach out. I am excited to connect with like-minded professionals and explore new opportunities in the tech industry.
 
-[![LinkedIn](https://img.shields.io/badge/DemiGao%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/junmenggao/)](https://www.linkedin.com/in/junmenggao/)
 [![Gmail](https://img.shields.io/badge/DemiGao%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:cbgaojunmeng@gmail.com)](mailto:cbgaojunmeng@gmail.com)
 
 :round_pushpin: Based in Greater Seattle Area, WA
