@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there! I'm Demi Gao 👋
-I am a full-stack software engineer with a background in software testing. I developed strong problem-solving skills and learned how to work effectively both independently and as part of a team at HR. I have a keen eye for detail and a dedication to delivering high-quality code that meets user needs while adhering to best practices and industry standards.
+I am a full-stack software engineer. I developed strong problem-solving skills and learned how to work effectively both independently and as part of a team at HR. I have a keen eye for detail and a dedication to delivering high-quality code that meets user needs while adhering to best practices and industry standards.
 
 If you are looking for a full stack engineer, please don't hesitate to reach out. I am excited to connect with like-minded professionals and explore new opportunities in the tech industry.
 
